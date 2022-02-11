@@ -91,13 +91,6 @@
     "projects": [
       {
         "title":"Vaccine Tracker",
-        "description":"The purpose of this application is to substitute the use of a physical card showing that an individual has received a COVID-19 vaccination.",
-        "image":"project2.png",
-        "deployed":"https://ancient-hollows-23369.herokuapp.com/",
-        "github": "https://github.com/wrp90/Vaccination_Tracker"
-      },
-      {
-        "title":"Vaccine Tracker",
         "category":"Digital subsitute for a user's Vaccination card.",
         "image":"project2.png",
         "url":"https://ancient-hollows-23369.herokuapp.com/"
