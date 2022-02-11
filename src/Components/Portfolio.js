@@ -15,6 +15,9 @@ class Portfolio extends Component {
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <div style={{ textAlign: "center" }}>{projects.description}</div>
+            <a style={{ textAlign: "center" }} href={projects.url}>Deployed Link</a>
+            <a style={{ textAlign: "center" }} href={projects.github_repo}>Repo</a>
           </div>
         </div>
       );

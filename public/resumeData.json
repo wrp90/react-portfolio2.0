@@ -91,9 +91,10 @@
     "projects": [
       {
         "title":"Vaccine Tracker",
-        "category":"Digital subsitute for a user's Vaccination card.",
+        "description":"Digital subsitute for a user's Vaccination card.",
         "image":"project2.png",
-        "url":"https://ancient-hollows-23369.herokuapp.com/"
+        "url":"https://ancient-hollows-23369.herokuapp.com/",
+        "github_repo":"https://ancient-hollows-23369.herokuapp.com/"
       }
     ]
   }
