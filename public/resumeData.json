@@ -91,11 +91,32 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Vaccine Tracker",
+        "title":"Vaccine Tracker.",
         "description":"Digital subsitute for a user's Vaccination card.",
         "image":"project2.png",
         "url":"https://ancient-hollows-23369.herokuapp.com/",
         "github_repo":"https://ancient-hollows-23369.herokuapp.com/"
+      },
+      {
+        "title":"Work Day Scheduler.",
+        "description":"A schedule App that allows you to fill in events.  Color coded for past, present and future events.",
+        "image":"workday.png",
+        "url":"https://wrp90.github.io/WorkDaySchedulerWP/",
+        "github_repo":"https://github.com/wrp90/WorkDaySchedulerWP"
+      },
+      {
+        "title":"Employee Directory.",
+        "description":"A react app that allows you to search through a database of employees.",
+        "image":"empdirectory.png",
+        "url":"https://wrp90.github.io/EmployeeDirectory/",
+        "github_repo":"https://github.com/wrp90/EmployeeDirectory"
+      },
+      {
+        "title":"Budget Tracker.",
+        "description":"A simple budget tracker to help track your spending.",
+        "image":"budget.png",
+        "url":"https://pure-bastion-65917.herokuapp.com/",
+        "github_repo":"https://github.com/wrp90/BudgetTracker"
       }
     ]
   }
