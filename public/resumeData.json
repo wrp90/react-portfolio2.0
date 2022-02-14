@@ -2,7 +2,7 @@
   "main": {
     "name":"William Papp",
     "description":"Full-Stack Web Developer",
-    "image":"mypic.jpg",
+    "image":"mypic2.jpg",
     "bio":"Use this bio section as your way of describing yourself.",
     "contactmessage":"You can reach me through here:",
     "email": "wpapp90@gmail.com",
@@ -16,7 +16,7 @@
       "zip": "77345"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"resume.pdf",
     "social":[
       {
         "name":"linkedin",
